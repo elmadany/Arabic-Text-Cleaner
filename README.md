@@ -10,4 +10,4 @@ A small perl script that cleans Arabic text. Useful for Arabic NLP experiments w
 </li>
 </ul>
 <b>Usage:</b> perl Arabic-Text-Cleaner.pl inputFile outpitFile<br>
-<b><u>Please refer to this page if using it</u></b><br>
+<b><u>Please refer to this page if used it</u></b><br>
