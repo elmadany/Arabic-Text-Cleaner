@@ -1,8 +1,8 @@
 ###################################################
-# Clean Arabic text
+# Arabic Text Cleaner
 # written by AbdelRahim Elmadany
 # April,6 2017
-# Usage: perl clean.pl inputFile outpitFile
+# Usage: perl Arabic-Text-Cleaner.pl inputFile outpitFile
 ####################################################
 open my $in,  '<:encoding(UTF-8)',  $ARGV[0] or die $!;
 open my $out, '>:encoding(UTF-8)', $ARGV[1]  or die $!;
